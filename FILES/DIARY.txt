@@ -1,0 +1,7 @@
+>>FIRST ENTRY
+Well, this is the first entry here. So i'll explain what the IRL diary is about.
+The IRL diary is about the plans from COS v2.7 onwards and techniques, ideas, schematics, blah blah blah...
+Its helps me not forget things. Like remember algorithms, and diagrams.
+It's also used to plan what tasks are left to do. Set deadlines and other targets.
+Every TCOS member has access to the Developer Diary.
+Its just one awesome piece of work. Organised work.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

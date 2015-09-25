@@ -1,0 +1,19 @@
+BLOOPERS!
+It actually means the silly and massive mistake we made on the way to ConsoleOS!
+
+The Best one first...
+
+>>SEGMENT COS_FIX_TEXT EXCEEDS 64K
+This one actually freaked us like hell, cuz we know we can't increase the quota assigned.
+After two days, Susobhan came out with the solution.
+Define all the crap out of the classes!
+Our lovely Bookworm. :)
+
+>>UNABLE TO OPEN XYZ.OBJ
+We had no clue what the hell this was! We get it every now and then.
+TO fix it, we just copy the code to a new .cpp and compile!
+
+>>UNABLE TO USE TLINK.EXE
+Damn! WE ALWAYS get this error even now on every damn x64 PC!
+
+#>Keep waiting for more: 81L00PER5 !!!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,11 @@
+ConsoleOS (COSOEPC : ConsoleOS Operating Environment Program Concept) is a startup concept for a different kind of OS.
+One without the kind of kernel, interface, structure and mechanism that's been around for so long.
+This idea was started in November 2011 by only one guy. The same guy who is typing this.
+Later in April 2012, Another guy, Susobhan Ghosh joined him by helping ut primarily with the calculator.
+Again, later in about July, another guy Biswajeet Kr. Paul joined up with Susobhan to work on the calculator.
+In August, our class teacher Mr. Abhisek Roy tell us that we have a project to submit.
+Instantly the idea of a Graphicised ConsoleOS jumps up in the typists mind and so it begins.
+Over a span of 4 months, it turned from a simple "ConsoleOS" on the bootscreen to a full fleged OEPC.
+Now it's going on with the hope of being a legendary OS sometime soon.
+
+Catch up!: code.google.com/p/consoleos
