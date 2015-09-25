@@ -7,4 +7,6 @@ It holds all the exising
 ConsoleOS OECP updates
 and Side Codes Snippets
 that worked as the 
-project's lifeline.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+project's lifeline.
+
+Official repo - github.com/jayantbh/consoleos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
